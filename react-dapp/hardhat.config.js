@@ -25,7 +25,7 @@ module.exports = {
     hardhat: {},
     rinkeby: {
       url: "https://rinkeby.infura.io/v3/8c79bd8cbff64485a9b8cbc91950661e",
-      accounts: [`0x${4bbbf85ce3377467afe5d46f804f221813b2bb87f24d81f60f1fcdbf7cbf4356}`]
+      accounts: [`0x${your-private-key}`]
     }
   },
   solidity: "0.8.4",
